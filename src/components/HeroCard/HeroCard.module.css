@@ -1,0 +1,12 @@
+.HeroCard {
+    margin-top: 10%;
+    width: 600px;
+    height: 400px;
+    padding: 45px;
+    border-radius: 50px;
+    box-shadow: 3px 3px 5px #221C1F50;
+}
+
+.Headshot {
+    width: 50px;
+}

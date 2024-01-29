@@ -1,0 +1,25 @@
+.Title {
+  margin-left: 2.5%;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(246, 244, 245);
+}
+
+.Nav_links {
+  display: flex;
+}
+
+.Nav_item {
+  margin: 24px;
+  cursor: pointer;
+}
+
+.Nav_item:hover {
+  transform: scale(1.05);
+  transition: 300ms ease; 
+}
+
